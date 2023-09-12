@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCRUD", "ConsoleAppCRUD.csproj", "{BCAFDD20-916E-419D-A4DA-0CB7720B26A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDService", "..\CRUDService\CRUDService.csproj", "{68C05DAE-0924-4973-B2FA-AB68E1B8045A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BCAFDD20-916E-419D-A4DA-0CB7720B26A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCAFDD20-916E-419D-A4DA-0CB7720B26A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCAFDD20-916E-419D-A4DA-0CB7720B26A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C05DAE-0924-4973-B2FA-AB68E1B8045A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C05DAE-0924-4973-B2FA-AB68E1B8045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C05DAE-0924-4973-B2FA-AB68E1B8045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C05DAE-0924-4973-B2FA-AB68E1B8045A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
